@@ -1,0 +1,152 @@
+/*Scrolling Background*/
+# name:Level11Base position:0,0 time:0
+# name:Level12Base position:480,0 time:0
+# name:Level11Base position:480,0 time:24
+# name:Level12Base position:480,0 time:48
+# name:Level11Base position:480,0 time:72
+# name:Level11Base position:480,0 time:96
+# name:Level11Base position:480,0 time:120
+# name:Level11Base position:480,0 time:144
+# name:Level11Base position:480,0 time:168
+# name:Level11Top position:480,0 time:6
+# name:Level12Top position:480,0 time:18
+# name:Level11Top position:480,0 time:30
+# name:Level12Top position:480,0 time:42
+
+/*Wave 1*/
+# name:Fighter1 position:256,32 time:1
+# name:Fighter1 position:256,64 time:1
+# name:Fighter1 position:256,96 time:1
+# name:Bomber1 position:256,0 time:4
+# name:Bomber1 position:256,-32 time:4
+# name:Bomber1 position:256,-64 time:4
+# name:Fighter2 position:256,128 time:6
+# name:Fighter3 position:256,32 time:6
+# name:Fighter3 position:256,0 time:7
+# name:Fighter1 position:256,-32 time:8
+# name:Fighter1 position:256,-64 time:8
+# name:Fighter1 position:256,-96 time:8
+# name:Bomber1 position:256,0 time:9
+# name:Bomber1 position:256,32 time:10
+# name:Bomber1 position:256,64 time:11
+
+/*Wave 2*/
+# name:Fighter3Inverse position:256,-32 time:12
+# name:Fighter3Inverse position:256,-64 time:12
+# name:Fighter1 position:256,0 time:13
+# name:Fighter1 position:256,32 time:13
+# name:Fighter1 position:256,64 time:13
+# name:Bomber1 position:256,32 time:14
+# name:Bomber1 position:256,0 time:14
+# name:Bomber1 position:256,-32 time:14
+# name:Bomber1 position:256,-32 time:14
+# name:Fighter2 position:256,128 time:16
+# name:Fighter2 position:256,128 time:17
+# name:Fighter2 position:256,128 time:18
+# name:Fighter1 position:256,-32 time:20
+# name:Fighter1 position:256,0 time:20
+# name:Fighter1 position:256,32 time:20
+# name:Fighter2Inverse position:256,-128 time:16
+# name:Fighter2Inverse position:256,-128 time:17
+# name:Fighter2Inverse position:256,-128 time:18
+# name:Fighter3Inverse position:256,32 time:20
+# name:Fighter3 position:256,-32 time:20
+# name:HeavyBomber1 position:-160,-180 time:20
+
+/*Wave 3*/
+# name:Fighter1 position:256,32 time:21
+# name:Fighter1 position:256,64 time:21
+# name:Fighter1 position:256,96 time:21
+# name:Bomber1 position:256,0 time:24
+# name:Bomber1 position:256,0 time:24
+# name:Bomber1 position:256,-32 time:24
+# name:Bomber1 position:256,-64 time:24
+# name:Bomber1 position:256,-96 time:24
+# name:Fighter2 position:256,128 time:26
+# name:Fighter3 position:256,32 time:26
+# name:Fighter3 position:256,0 time:27
+# name:Fighter1 position:256,0 time:28
+# name:Fighter1 position:256,-32 time:28
+# name:Fighter1 position:256,-64 time:28
+# name:Fighter1 position:256,-96 time:28
+# name:Bomber1 position:256,0 time:29
+# name:Bomber1 position:256,32 time:30
+# name:Bomber1 position:256,64 time:31
+# name:Bomber1 position:256,96 time:32
+# name:HeavyBomber1Inverse position:-160,180 time:32
+
+/*Wave 4*/
+# name:Fighter1 position:256,-96 time:34
+# name:Fighter1 position:256,-64 time:34
+# name:Fighter1 position:256,-32 time:34
+# name:Fighter1 position:256,0 time:34
+# name:Fighter1 position:256,32 time:34
+# name:Fighter1 position:256,64 time:34
+# name:Fighter1 position:256,96 time:34
+# name:Fighter3 position:256,-64 time:35
+# name:Fighter3 position:256,-32 time:35
+# name:Fighter3 position:256,-96 time:35
+# name:Fighter3Inverse position:256,64 time:37
+# name:Fighter3Inverse position:256,32 time:37
+# name:Fighter3Inverse position:256,96 time:37
+# name:Fighter2 position:256,128 time:38
+# name:Fighter2 position:256,96 time:38
+# name:Fighter2 position:256,64 time:38
+# name:Fighter2Inverse position:256,-128 time:38
+# name:Fighter2Inverse position:256,-96 time:38
+# name:Fighter2Inverse position:256,-64 time:38
+# name:HeavyBomber1 position:-160,-180 time:40
+# name:Bomber1 position:256,-32 time:41
+# name:Bomber1 position:256,0 time:41
+# name:Bomber1 position:256,32 time:41
+# name:Bomber1 position:256,-32 time:42
+# name:Bomber1 position:256,0 time:42
+# name:Bomber1 position:256,32 time:42
+# name:Fighter1 position:256,-64 time:44
+# name:Fighter1 position:256,-64 time:45
+# name:Fighter1 position:256,-64 time:46
+
+/*Wave 5*/
+# name:Bomber1 position:256,96 time:48
+# name:Bomber1 position:256,96 time:48,5
+# name:Bomber1 position:256,96 time:49
+# name:Bomber1 position:256,64 time:48
+# name:Bomber1 position:256,64 time:48,5
+# name:Bomber1 position:256,64 time:49
+# name:Bomber1 position:256,32 time:48
+# name:Bomber1 position:256,32 time:48,5
+# name:Bomber1 position:256,32 time:49
+# name:Bomber1 position:256,0 time:48
+# name:Bomber1 position:256,0 time:48,5
+# name:Bomber1 position:256,0 time:49
+# name:Fighter1 position:256,-96 time:51
+# name:Fighter1 position:256,-96 time:51,5
+# name:Fighter1 position:256,-96 time:52
+# name:Fighter1 position:256,-96 time:52,5
+# name:Fighter1 position:256,-64 time:52
+# name:Fighter1 position:256,-64 time:52,5
+# name:Fighter1 position:256,-64 time:53
+# name:Fighter1 position:256,-64 time:53,5
+# name:Fighter1 position:256,-32 time:53
+# name:Fighter1 position:256,-32 time:53,5
+# name:Fighter1 position:256,-32 time:54
+# name:Fighter1 position:256,-32 time:54,5
+# name:HeavyBomber1Inverse position:-160,180 time:57
+# name:Fighter2Inverse position:256,-128 time:57,5
+# name:Fighter2Inverse position:256,-96 time:58
+
+/*Wave 6*/
+# name:Fighter3 position:256,32 time:59
+# name:Fighter3 position:256,-32 time:59
+# name:Fighter3 position:256,0 time:59
+# name:Fighter3 position:256,32 time:60
+# name:Fighter3 position:256,-32 time:60
+# name:Fighter3 position:256,0 time:60
+# name:HeavyBomber1 position:-160,-180 time:62
+# name:HeavyBomber1Inverse position:-160,180 time:65
+# name:Fighter2Inverse position:256,-96 time:66
+# name:Fighter2Inverse position:256,-96 time:67
+# name:Fighter2Inverse position:256,-96 time:68
+
+/*Boss*/
+# name:Boss1 position:-360,0 time:72
